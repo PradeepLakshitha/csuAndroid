@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     final int GALLERY_REQUEST = 11111;
     Bitmap bitmap;
     Uri imageUri;
-    public VisionServiceClient vision = new VisionServiceRestClient("bff49c4a-bc53-49cb-8bd3-8def37f1fde4");
+    public VisionServiceClient vision = new VisionServiceRestClient("18740c67fab0456f9e8f55f0b0b2bba3");
     ProgressDialog dialog;
 
     @Override
